@@ -7,6 +7,11 @@ public class GunScript : MonoBehaviour
     AmmoStockpile ammoStockpile;
 
     [SerializeField]
+    AudioClip fire;
+    [SerializeField]
+    AudioClip reload;
+
+    [SerializeField]
     string firingAnimation;
     [SerializeField]
     string muzzleAnimation;
@@ -21,6 +26,7 @@ public class GunScript : MonoBehaviour
 
     Animator anim;
     SpriteRenderer sr;
+    AudioSource audioSource;
 
     [SerializeField]
     bool canInput = true;
@@ -59,9 +65,9 @@ public class GunScript : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        muzzleFlash = GameObject.FindGameObjectWithTag("MuzzleFlash");
+        audioSource = GetComponent<AudioSource>();
         sr = GetComponent<SpriteRenderer>();
-        player = GameObject.Find("Player");
+        player = GameObject.FindGameObjectWithTag("Player");
         playerCamera = GameObject.Find("PlayerCamera");
         GetAmmoType();
         ammoStockpile = player.GetComponent<AmmoStockpile>();

@@ -12,17 +12,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8b49790db18d6bb4984218f17fe5ffce, type: 3}
   m_Name: TestAssault
   m_EditorClassIdentifier: 
-  weaponSprite: {fileID: 0}
+  weaponSprite: {fileID: -3974019225878720162, guid: e7a2e5a00a653f74ab14bf91d9c74923,
+    type: 3}
   weaponName: 
-  weaponDamage: 0
+  weaponDamage: 18
   weaponAccuracy: 0
   critChance: 0
-  reloadTime: 0
-  maxAmmo: 0
-  startingAmmo: 0
-  projectileCount: 0
-  fireRate: 0
+  reloadTime: 189
+  maxAmmo: 40
+  startingAmmo: 120
+  projectileCount: 1
+  fireRate: 8.78
   criticalMultiplier: 1
-  automatic: 0
-  weaponType: 0
+  automatic: 1
+  weaponType: 4
   reloadType: 0
