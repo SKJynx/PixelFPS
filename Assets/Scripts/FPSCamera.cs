@@ -11,16 +11,22 @@ public class FPSCamera : MonoBehaviour
     public Camera playerCamera;
     public float lookSpeed = 2.0f;
     public float lookXLimit = 45.0f;
+    public float dodgeSpeed = 30.0f;
+
+    [SerializeField]
+    bool canInput = true;
 
     CharacterController characterController;
     Vector3 moveDirection = Vector3.zero;
     float rotationX = 0;
 
-    [HideInInspector]
     public bool canMove = true;
+    [HideInInspector]
+    public bool canLook = true;
 
     void Start()
     {
+
         characterController = GetComponent<CharacterController>();
 
         // Lock cursor
@@ -29,6 +35,25 @@ public class FPSCamera : MonoBehaviour
     }
 
     void Update()
+    {
+        if (canMove == true)
+        {
+            Dodge();
+            MovePlayer();
+        }
+        CameraLook();
+    }
+
+    void Dodge()
+    {
+        //Dodge left
+        if (Input.GetKeyDown(KeyCode.LeftControl))
+        {
+
+        }
+    }
+
+    void MovePlayer()
     {
         // We are grounded, so recalculate move direction based on axes
         Vector3 forward = transform.TransformDirection(Vector3.forward);
@@ -60,8 +85,13 @@ public class FPSCamera : MonoBehaviour
         // Move the controller
         characterController.Move(moveDirection * Time.deltaTime);
 
+
+    }
+
+    void CameraLook()
+    {
         // Player and Camera rotation
-        if (canMove)
+        if (canLook)
         {
             rotationX += -Input.GetAxis("Mouse Y") * lookSpeed;
             rotationX = Mathf.Clamp(rotationX, -lookXLimit, lookXLimit);

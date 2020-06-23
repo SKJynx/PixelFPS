@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class GunScript : MonoBehaviour
 {
+    public Sprite weaponSprite;
     AmmoStockpile ammoStockpile;
 
     [SerializeField]
@@ -46,6 +47,9 @@ public class GunScript : MonoBehaviour
     int ammoToLoad;
     [SerializeField]
     int ammoPerShot;
+    [SerializeField]
+    int currentMag;
+
     RaycastHit bulletHit;
 
     public enum AmmoType
@@ -74,6 +78,7 @@ public class GunScript : MonoBehaviour
         ammoStockpile = player.GetComponent<AmmoStockpile>();
         anim = GetComponent<Animator>();
         sr.sprite = m_scriptableWeapon.weaponSprite;
+        weaponSprite = m_scriptableWeapon.weaponSprite;
     }
 
     void FixedUpdate()
@@ -179,6 +184,7 @@ public class GunScript : MonoBehaviour
 
     void FireWeapon()
     {
+        
         isReloading = false;
 
         StopCoroutine("ReloadSingle");
