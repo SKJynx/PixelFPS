@@ -450,7 +450,7 @@ Transform:
   m_LocalScale: {x: 1, y: 0.08, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 3
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 90, z: 90}
 --- !u!114 &357607746
 MonoBehaviour:
@@ -464,6 +464,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 09a8d0ddbe49f314f9f12372cc27ac99, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  health: 100
+  armor: 1
 --- !u!1 &527581979
 GameObject:
   m_ObjectHideFlags: 0
@@ -528,7 +530,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 5
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &537375470
 PrefabInstance:
@@ -940,7 +942,7 @@ Transform:
   - {fileID: 963194228}
   - {fileID: 88377053}
   m_Father: {fileID: 0}
-  m_RootOrder: 2
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &1429846261
 MonoBehaviour:
@@ -1078,7 +1080,7 @@ RectTransform:
   m_Children:
   - {fileID: 1112778305}
   m_Father: {fileID: 0}
-  m_RootOrder: 4
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
