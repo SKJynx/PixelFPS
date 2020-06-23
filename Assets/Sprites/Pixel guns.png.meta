@@ -1,0 +1,6092 @@
+fileFormatVersion: 2
+guid: e7a2e5a00a653f74ab14bf91d9c74923
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7814221189688026246
+    second: Pixel guns_0
+  - first:
+      213: 334629990859106867
+    second: Pixel guns_1
+  - first:
+      213: -2460965307169353029
+    second: Pixel guns_2
+  - first:
+      213: 8870569865757472757
+    second: Pixel guns_3
+  - first:
+      213: -5690681825272979172
+    second: Pixel guns_4
+  - first:
+      213: 1294590711525115350
+    second: Pixel guns_5
+  - first:
+      213: 7134595372895574941
+    second: Pixel guns_6
+  - first:
+      213: -7428548920389936948
+    second: Pixel guns_7
+  - first:
+      213: -3164120643284584059
+    second: Pixel guns_8
+  - first:
+      213: -408867939561935635
+    second: Pixel guns_9
+  - first:
+      213: 5363271319399680936
+    second: Pixel guns_10
+  - first:
+      213: -1522066155040053353
+    second: Pixel guns_11
+  - first:
+      213: 7629251020003639167
+    second: Pixel guns_12
+  - first:
+      213: -6640130164663940964
+    second: Pixel guns_13
+  - first:
+      213: 4650667042132430282
+    second: Pixel guns_14
+  - first:
+      213: 4463331607658940690
+    second: Pixel guns_15
+  - first:
+      213: -3187418897279190615
+    second: Pixel guns_16
+  - first:
+      213: 3045958313533033817
+    second: Pixel guns_17
+  - first:
+      213: 2519221654409261895
+    second: Pixel guns_18
+  - first:
+      213: 3686072228592132687
+    second: Pixel guns_19
+  - first:
+      213: -4356944819009252153
+    second: Pixel guns_20
+  - first:
+      213: 3636571245457754866
+    second: Pixel guns_21
+  - first:
+      213: -6198762189960616998
+    second: Pixel guns_22
+  - first:
+      213: -2987150875048521413
+    second: Pixel guns_23
+  - first:
+      213: -8092485850530352549
+    second: Pixel guns_24
+  - first:
+      213: 6071223354180363203
+    second: Pixel guns_25
+  - first:
+      213: -5851939845045982195
+    second: Pixel guns_26
+  - first:
+      213: -7777126451052460923
+    second: Pixel guns_27
+  - first:
+      213: 2885591189411062846
+    second: Pixel guns_28
+  - first:
+      213: -6673380663545157919
+    second: Pixel guns_29
+  - first:
+      213: 6586076407837439868
+    second: Pixel guns_30
+  - first:
+      213: -9079171584269754629
+    second: Pixel guns_31
+  - first:
+      213: -751053005638682494
+    second: Pixel guns_32
+  - first:
+      213: -8624944446160369518
+    second: Pixel guns_33
+  - first:
+      213: 1733790769898563792
+    second: Pixel guns_34
+  - first:
+      213: -8109663965292659312
+    second: Pixel guns_35
+  - first:
+      213: -8525551261843712335
+    second: Pixel guns_36
+  - first:
+      213: 3019147162230028045
+    second: Pixel guns_37
+  - first:
+      213: -3009634228967932990
+    second: Pixel guns_38
+  - first:
+      213: 3714920363519742633
+    second: Pixel guns_39
+  - first:
+      213: -4946610889880439632
+    second: Pixel guns_40
+  - first:
+      213: -6982232129598363404
+    second: Pixel guns_41
+  - first:
+      213: -4784777281840682807
+    second: Pixel guns_42
+  - first:
+      213: -7763916001017596327
+    second: Pixel guns_43
+  - first:
+      213: -4310761833374098372
+    second: Pixel guns_44
+  - first:
+      213: -228874049220711599
+    second: Pixel guns_45
+  - first:
+      213: -4416148532134388578
+    second: Pixel guns_46
+  - first:
+      213: 8197766631279423939
+    second: Pixel guns_47
+  - first:
+      213: -1027781445460760848
+    second: Pixel guns_48
+  - first:
+      213: -3243471341832512473
+    second: Pixel guns_49
+  - first:
+      213: -5435657401044247724
+    second: Pixel guns_50
+  - first:
+      213: -7385488174868567038
+    second: Pixel guns_51
+  - first:
+      213: 6571437028786303088
+    second: Pixel guns_52
+  - first:
+      213: 4426757050238307562
+    second: Pixel guns_53
+  - first:
+      213: -5639904627273909495
+    second: Pixel guns_54
+  - first:
+      213: -5476161640546375413
+    second: Pixel guns_55
+  - first:
+      213: -853773897220622367
+    second: Pixel guns_56
+  - first:
+      213: 8115043372939188068
+    second: Pixel guns_57
+  - first:
+      213: 6312715671051560487
+    second: Pixel guns_58
+  - first:
+      213: 5588190677308492901
+    second: Pixel guns_59
+  - first:
+      213: -3696048433988254924
+    second: Pixel guns_60
+  - first:
+      213: 7604928856884821272
+    second: Pixel guns_61
+  - first:
+      213: 8822566581580642524
+    second: Pixel guns_62
+  - first:
+      213: 2630361801471371870
+    second: Pixel guns_63
+  - first:
+      213: 1931979966989191074
+    second: Pixel guns_64
+  - first:
+      213: -1440013401909046308
+    second: Pixel guns_65
+  - first:
+      213: -1344522512022475437
+    second: Pixel guns_66
+  - first:
+      213: -6111572829560301323
+    second: Pixel guns_67
+  - first:
+      213: 3269322993199832997
+    second: Pixel guns_68
+  - first:
+      213: 3111715122630001966
+    second: Pixel guns_69
+  - first:
+      213: -7739421012489474583
+    second: Pixel guns_70
+  - first:
+      213: -1085812956544329025
+    second: Pixel guns_71
+  - first:
+      213: 293919629162477859
+    second: Pixel guns_72
+  - first:
+      213: -3334594236544807674
+    second: Pixel guns_73
+  - first:
+      213: -7778241580035809812
+    second: Pixel guns_74
+  - first:
+      213: 1740215946610210513
+    second: Pixel guns_75
+  - first:
+      213: -3547733072950996861
+    second: Pixel guns_76
+  - first:
+      213: 5905720330343161717
+    second: Pixel guns_77
+  - first:
+      213: 1778897946984619630
+    second: Pixel guns_78
+  - first:
+      213: 8183371570071597606
+    second: Pixel guns_79
+  - first:
+      213: 1338488978498751979
+    second: Pixel guns_80
+  - first:
+      213: -3786990164592241484
+    second: Pixel guns_81
+  - first:
+      213: -2748617820578038179
+    second: Pixel guns_82
+  - first:
+      213: -6059954802282884945
+    second: Pixel guns_83
+  - first:
+      213: -1038525817176903493
+    second: Pixel guns_84
+  - first:
+      213: 1943421994037385491
+    second: Pixel guns_85
+  - first:
+      213: 1795105388410051269
+    second: Pixel guns_86
+  - first:
+      213: 6709220986194691971
+    second: Pixel guns_87
+  - first:
+      213: 4749964483000340654
+    second: Pixel guns_88
+  - first:
+      213: 8044507891741092143
+    second: Pixel guns_89
+  - first:
+      213: -2844956720434801460
+    second: Pixel guns_90
+  - first:
+      213: -3974019225878720162
+    second: Pixel guns_91
+  - first:
+      213: -8790967092658451827
+    second: Pixel guns_92
+  - first:
+      213: 7477546396822582080
+    second: Pixel guns_93
+  - first:
+      213: 2927450090873746435
+    second: Pixel guns_94
+  - first:
+      213: 5108206001740889539
+    second: Pixel guns_95
+  - first:
+      213: 3292775277739178223
+    second: Pixel guns_96
+  - first:
+      213: -3485014871898393205
+    second: Pixel guns_97
+  - first:
+      213: 2583409180172232738
+    second: Pixel guns_98
+  - first:
+      213: -2487567704833995980
+    second: Pixel guns_99
+  - first:
+      213: -6429918587290976759
+    second: Pixel guns_100
+  - first:
+      213: -2676696127627023184
+    second: Pixel guns_101
+  - first:
+      213: 5048135745745987075
+    second: Pixel guns_102
+  - first:
+      213: 7310279522034734631
+    second: Pixel guns_103
+  - first:
+      213: 5888974472832225114
+    second: Pixel guns_104
+  - first:
+      213: -6206368919319533334
+    second: Pixel guns_105
+  - first:
+      213: -6773004569195640807
+    second: Pixel guns_106
+  - first:
+      213: 469409314058924294
+    second: Pixel guns_107
+  - first:
+      213: -9073780420039778380
+    second: Pixel guns_108
+  - first:
+      213: 2108371433231274338
+    second: Pixel guns_109
+  - first:
+      213: 9006620482058024451
+    second: Pixel guns_110
+  - first:
+      213: -2434048996869528324
+    second: Pixel guns_111
+  - first:
+      213: -3503917380302073760
+    second: Pixel guns_112
+  - first:
+      213: 3326864027129985682
+    second: Pixel guns_113
+  - first:
+      213: -5069900905055702720
+    second: Pixel guns_114
+  - first:
+      213: 7355494803096719499
+    second: Pixel guns_115
+  - first:
+      213: 6338033355109589598
+    second: Pixel guns_116
+  - first:
+      213: 2260782646916568993
+    second: Pixel guns_117
+  - first:
+      213: 8388835470556661902
+    second: Pixel guns_118
+  - first:
+      213: 1355910272372706356
+    second: Pixel guns_119
+  - first:
+      213: -7485012797539637079
+    second: Pixel guns_120
+  - first:
+      213: 7224439007355406321
+    second: Pixel guns_121
+  - first:
+      213: -4511399216111071200
+    second: Pixel guns_122
+  - first:
+      213: 8524206706860309608
+    second: Pixel guns_123
+  - first:
+      213: 3771541687358257492
+    second: Pixel guns_124
+  - first:
+      213: 8250411982946134485
+    second: Pixel guns_125
+  - first:
+      213: -4439098868289041170
+    second: Pixel guns_126
+  - first:
+      213: 1344376430315295553
+    second: Pixel guns_127
+  - first:
+      213: -1516729450865754010
+    second: Pixel guns_128
+  - first:
+      213: 7376469440806310495
+    second: Pixel guns_129
+  - first:
+      213: -2830609018591235040
+    second: Pixel guns_130
+  - first:
+      213: 2642897200052017770
+    second: Pixel guns_131
+  - first:
+      213: -1040470510469213308
+    second: Pixel guns_132
+  - first:
+      213: -4719074649214036046
+    second: Pixel guns_133
+  - first:
+      213: 5767145366640088908
+    second: Pixel guns_134
+  - first:
+      213: -2484359820991447932
+    second: Pixel guns_135
+  - first:
+      213: -6443523271016471931
+    second: Pixel guns_136
+  - first:
+      213: -9111371269931010547
+    second: Pixel guns_137
+  - first:
+      213: -8602302570467340826
+    second: Pixel guns_138
+  - first:
+      213: 7473431649297019426
+    second: Pixel guns_139
+  - first:
+      213: -1213038669055662907
+    second: Pixel guns_140
+  - first:
+      213: 1056439791008921780
+    second: Pixel guns_141
+  - first:
+      213: -8318210735211946577
+    second: Pixel guns_142
+  - first:
+      213: 2627048873758727829
+    second: Pixel guns_143
+  - first:
+      213: -4977358973279835882
+    second: Pixel guns_144
+  - first:
+      213: 2331195126783818766
+    second: Pixel guns_145
+  - first:
+      213: -1994147059720690898
+    second: Pixel guns_146
+  - first:
+      213: 5272463549228525539
+    second: Pixel guns_147
+  - first:
+      213: -4950363904180248039
+    second: Pixel guns_148
+  - first:
+      213: -7593996553560339106
+    second: Pixel guns_149
+  - first:
+      213: -9200221948791316189
+    second: Pixel guns_150
+  - first:
+      213: -3928482249915124989
+    second: Pixel guns_151
+  - first:
+      213: 341230123279840010
+    second: Pixel guns_152
+  - first:
+      213: -5849320012758018141
+    second: Pixel guns_153
+  - first:
+      213: -7378665391905172965
+    second: Pixel guns_154
+  - first:
+      213: -7008854268273958485
+    second: Pixel guns_155
+  - first:
+      213: 8767969734067695463
+    second: Pixel guns_156
+  - first:
+      213: -1740095252857992209
+    second: Pixel guns_157
+  - first:
+      213: -2467016085875447048
+    second: Pixel guns_158
+  - first:
+      213: -4240598541581587367
+    second: Pixel guns_159
+  - first:
+      213: 3687181289422301423
+    second: Pixel guns_160
+  - first:
+      213: 3461793232098694570
+    second: Pixel guns_161
+  - first:
+      213: -6463521057882599023
+    second: Pixel guns_162
+  - first:
+      213: 2203834072851266749
+    second: Pixel guns_163
+  - first:
+      213: -5897240708036783636
+    second: Pixel guns_164
+  - first:
+      213: 519413248938068598
+    second: Pixel guns_165
+  - first:
+      213: -4337351386802932892
+    second: Pixel guns_166
+  - first:
+      213: 6630423414265156145
+    second: Pixel guns_167
+  - first:
+      213: 1504952626752665125
+    second: Pixel guns_168
+  - first:
+      213: -3172617083746498717
+    second: Pixel guns_169
+  - first:
+      213: 4211602359176362082
+    second: Pixel guns_170
+  - first:
+      213: -3689291618237364976
+    second: Pixel guns_171
+  - first:
+      213: 4643250540763862104
+    second: Pixel guns_172
+  - first:
+      213: -6722100173146219849
+    second: Pixel guns_173
+  - first:
+      213: -3072293486507415494
+    second: Pixel guns_174
+  - first:
+      213: -5461522684265533240
+    second: Pixel guns_175
+  - first:
+      213: 1148903182005107919
+    second: Pixel guns_176
+  - first:
+      213: 6768652040613546085
+    second: Pixel guns_177
+  - first:
+      213: -8875855696436017398
+    second: Pixel guns_178
+  - first:
+      213: -3093907512979220632
+    second: Pixel guns_179
+  - first:
+      213: 8230919357807701252
+    second: Pixel guns_180
+  - first:
+      213: -4411945041370057258
+    second: Pixel guns_181
+  - first:
+      213: 5968890302129260592
+    second: Pixel guns_182
+  - first:
+      213: 7630468811114780606
+    second: Pixel guns_183
+  - first:
+      213: -5877661387599966703
+    second: Pixel guns_184
+  - first:
+      213: 2749246694459897
+    second: Pixel guns_185
+  - first:
+      213: -2003505910946642838
+    second: Pixel guns_186
+  - first:
+      213: 193505430597876122
+    second: Pixel guns_187
+  - first:
+      213: -8604393026722521090
+    second: Pixel guns_188
+  - first:
+      213: 7962474038161774119
+    second: Pixel guns_189
+  - first:
+      213: 6161592059920470451
+    second: Pixel guns_190
+  - first:
+      213: -3828472925439285722
+    second: Pixel guns_191
+  - first:
+      213: -5528388106636342083
+    second: Pixel guns_192
+  - first:
+      213: -6985576697570201917
+    second: Pixel guns_193
+  - first:
+      213: -8064082415874124925
+    second: Pixel guns_194
+  - first:
+      213: 9222456371563238838
+    second: Pixel guns_195
+  - first:
+      213: 5558646566726173589
+    second: Pixel guns_196
+  - first:
+      213: 4539573623550661645
+    second: Pixel guns_197
+  - first:
+      213: -7721459847064915492
+    second: Pixel guns_198
+  - first:
+      213: -3924862957817861522
+    second: Pixel guns_199
+  - first:
+      213: 7352982102667728752
+    second: Pixel guns_200
+  - first:
+      213: -2553265978623571845
+    second: Pixel guns_201
+  - first:
+      213: 3758636815057470603
+    second: Pixel guns_202
+  - first:
+      213: 1452329118814901251
+    second: Pixel guns_203
+  - first:
+      213: 8994715531620064762
+    second: Pixel guns_204
+  - first:
+      213: 7789682084558895711
+    second: Pixel guns_205
+  - first:
+      213: -7420168032805260604
+    second: Pixel guns_206
+  - first:
+      213: -8212958187200701797
+    second: Pixel guns_207
+  - first:
+      213: -8897377637132291112
+    second: Pixel guns_208
+  - first:
+      213: -4882017342867593061
+    second: Pixel guns_209
+  - first:
+      213: 3977103770061769039
+    second: Pixel guns_210
+  - first:
+      213: -1452497211072154606
+    second: Pixel guns_211
+  - first:
+      213: 5016228619418379415
+    second: Pixel guns_212
+  - first:
+      213: -2204612101663367331
+    second: Pixel guns_213
+  - first:
+      213: 1272534178882397504
+    second: Pixel guns_214
+  - first:
+      213: -5292836346945549642
+    second: Pixel guns_215
+  - first:
+      213: -2580446801719564537
+    second: Pixel guns_216
+  - first:
+      213: 3749530059538870144
+    second: Pixel guns_217
+  - first:
+      213: 7514258056303311289
+    second: Pixel guns_218
+  - first:
+      213: 5202766535179384134
+    second: Pixel guns_219
+  - first:
+      213: 7743742008487955331
+    second: Pixel guns_220
+  - first:
+      213: -3970925497459493668
+    second: Pixel guns_221
+  - first:
+      213: 5062726046106237952
+    second: Pixel guns_222
+  - first:
+      213: -7066758977899304734
+    second: Pixel guns_223
+  - first:
+      213: 4869525069298315920
+    second: Pixel guns_224
+  - first:
+      213: 4840151426485301724
+    second: Pixel guns_225
+  - first:
+      213: 5753871994683553739
+    second: Pixel guns_226
+  - first:
+      213: 1887937383164786025
+    second: Pixel guns_227
+  - first:
+      213: 7669464410509821600
+    second: Pixel guns_228
+  - first:
+      213: 4230426435909821657
+    second: Pixel guns_229
+  - first:
+      213: -4215190054862573438
+    second: Pixel guns_230
+  - first:
+      213: 3217292706641346935
+    second: Pixel guns_231
+  - first:
+      213: -2434724404427546135
+    second: Pixel guns_232
+  - first:
+      213: 4402206660829357082
+    second: Pixel guns_233
+  - first:
+      213: 1084668467594483242
+    second: Pixel guns_234
+  - first:
+      213: 2061723814564068150
+    second: Pixel guns_235
+  - first:
+      213: -1784139576481536659
+    second: Pixel guns_236
+  - first:
+      213: 5789360009286402243
+    second: Pixel guns_237
+  - first:
+      213: 1765957421417946820
+    second: Pixel guns_238
+  - first:
+      213: 5814219350289324043
+    second: Pixel guns_239
+  - first:
+      213: 5924532430728593495
+    second: Pixel guns_240
+  - first:
+      213: -1619729635144206188
+    second: Pixel guns_241
+  - first:
+      213: 8923507046455411597
+    second: Pixel guns_242
+  - first:
+      213: 185932615233053564
+    second: Pixel guns_243
+  - first:
+      213: 5034450286728798573
+    second: Pixel guns_244
+  - first:
+      213: -2582409138304401305
+    second: Pixel guns_245
+  - first:
+      213: -4747907319474119712
+    second: Pixel guns_246
+  - first:
+      213: -3410253007167742486
+    second: Pixel guns_247
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pixel guns_0
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 655
+        width: 61
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6846faf35c0b17c60800000000000000
+      internalID: 7814221189688026246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_1
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 686
+        width: 45
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33a69582438d4a400800000000000000
+      internalID: 334629990859106867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_2
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 685
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb25c958715e8ddd0800000000000000
+      internalID: -2460965307169353029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_3
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 672
+        width: 35
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f732cb6b489a1b70800000000000000
+      internalID: 8870569865757472757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_4
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 687
+        width: 38
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1125dac703a601b0800000000000000
+      internalID: -5690681825272979172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_5
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 685
+        width: 58
+        height: 13
+      alignment: 9
+      pivot: {x: 0.82887113, y: 0.46294695}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d589f1a46f47f110800000000000000
+      internalID: 1294590711525115350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_6
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 656
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b1691e0bc230360800000000000000
+      internalID: 7134595372895574941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_7
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 673
+        width: 41
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc8db837d1e78e890800000000000000
+      internalID: -7428548920389936948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_8
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 673
+        width: 24
+        height: 10
+      alignment: 9
+      pivot: {x: 0.875, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 589ba860a09c614d0800000000000000
+      internalID: -3164120643284584059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_9
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 672
+        width: 23
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dec6d5676c8635af0800000000000000
+      internalID: -408867939561935635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_10
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 670
+        width: 31
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8abcbd269da2e6a40800000000000000
+      internalID: 5363271319399680936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_11
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 669
+        width: 52
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 797613075e880eae0800000000000000
+      internalID: -1522066155040053353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_12
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 658
+        width: 37
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7f7a95916b80e960800000000000000
+      internalID: 7629251020003639167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_13
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 661
+        width: 29
+        height: 11
+      alignment: 9
+      pivot: {x: 0.8965517, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9889d0dbc489d3a0800000000000000
+      internalID: -6640130164663940964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_14
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 655
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd8be6d80d7a8040800000000000000
+      internalID: 4650667042132430282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_15
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 656
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 219c84d0370f0fd30800000000000000
+      internalID: 4463331607658940690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_16
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 649
+        width: 48
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a97e4d866304c3d0800000000000000
+      internalID: -3187418897279190615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_17
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 656
+        width: 58
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95dc8cea2fa654a20800000000000000
+      internalID: 3045958313533033817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_18
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 617
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 743398d4fb216f220800000000000000
+      internalID: 2519221654409261895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_19
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 643
+        width: 55
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f42aaa9892f872330800000000000000
+      internalID: 3686072228592132687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_20
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 649
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c499fc65c50983c0800000000000000
+      internalID: -4356944819009252153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_21
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 645
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fac8e5c742b77230800000000000000
+      internalID: 3636571245457754866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_22
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 643
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad3664471a299f9a0800000000000000
+      internalID: -6198762189960616998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_23
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 643
+        width: 52
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b315c321b128b86d0800000000000000
+      internalID: -2987150875048521413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_24
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 633
+        width: 18
+        height: 9
+      alignment: 9
+      pivot: {x: 0.8342281, y: 0.45048693}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b527349aef6b1bf80800000000000000
+      internalID: -8092485850530352549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_25
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 627
+        width: 52
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c3e9f15971514450800000000000000
+      internalID: 6071223354180363203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_26
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 637
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c641147bbb9cea0800000000000000
+      internalID: -5851939845045982195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_27
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 630
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58449bf92b8121490800000000000000
+      internalID: -7777126451052460923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_28
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 631
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e34e7d3f5edab0820800000000000000
+      internalID: 2885591189411062846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_29
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 626
+        width: 51
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e62e62c4a36363a0800000000000000
+      internalID: -6673380663545157919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_30
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 628
+        width: 50
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c773bb03991766b50800000000000000
+      internalID: 6586076407837439868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_31
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 621
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfed7c03c8d400280800000000000000
+      internalID: -9079171584269754629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_32
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 612
+        width: 60
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 288ba674549b395f0800000000000000
+      internalID: -751053005638682494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_33
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 626
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 298022f19ba0e4880800000000000000
+      internalID: -8624944446160369518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_34
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 615
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d8a7aae489af0810800000000000000
+      internalID: 1733790769898563792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_35
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 615
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09df1f4279fa47f80800000000000000
+      internalID: -8109663965292659312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_36
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 615
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b61c633c482fa980800000000000000
+      internalID: -8525551261843712335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_37
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 606
+        width: 49
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d077951195a26e920800000000000000
+      internalID: 3019147162230028045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_38
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 608
+        width: 53
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cb728e4d91ab36d0800000000000000
+      internalID: -3009634228967932990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_39
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 593
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a2957c536c0e8330800000000000000
+      internalID: 3714920363519742633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_40
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 600
+        width: 46
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b4f89a9a9b1a5bb0800000000000000
+      internalID: -4946610889880439632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_41
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 599
+        width: 50
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f868ff1fd02a1f90800000000000000
+      internalID: -6982232129598363404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_42
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 605
+        width: 25
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c8e68ab96e099db0800000000000000
+      internalID: -4784777281840682807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_43
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 601
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 956ff553887014490800000000000000
+      internalID: -7763916001017596327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_44
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 603
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3cdc62b3f81d24c0800000000000000
+      internalID: -4310761833374098372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_45
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 580
+        width: 33
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15be4edc340e2dcf0800000000000000
+      internalID: -228874049220711599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_46
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 581
+        width: 59
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9c54cace40b6b2c0800000000000000
+      internalID: -4416148532134388578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_47
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 593
+        width: 25
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c1f5f8415154c170800000000000000
+      internalID: 8197766631279423939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_48
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 590
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f6e29488369cb1f0800000000000000
+      internalID: -1027781445460760848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_49
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 590
+        width: 33
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72cd9eecfffdcf2d0800000000000000
+      internalID: -3243471341832512473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_50
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 587
+        width: 72
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45bd802a46aa094b0800000000000000
+      internalID: -5435657401044247724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_51
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 562
+        width: 43
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20c6c1c82a9718990800000000000000
+      internalID: -7385488174868567038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_52
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 579
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 070f7a4292f623b50800000000000000
+      internalID: 6571437028786303088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_53
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 570
+        width: 58
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec096e45100f6d30800000000000000
+      internalID: 4426757050238307562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_54
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 566
+        width: 52
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90bb14c7f980bb1b0800000000000000
+      internalID: -5639904627273909495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_55
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 571
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b09ec9a7004c004b0800000000000000
+      internalID: -5476161640546375413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_56
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 563
+        width: 29
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e7f9a9f929c624f0800000000000000
+      internalID: -853773897220622367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_57
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 565
+        width: 52
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4679decc3fc6e9070800000000000000
+      internalID: 8115043372939188068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_58
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 569
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 726e115e4754b9750800000000000000
+      internalID: 6312715671051560487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_59
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 548
+        width: 43
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c4f1240dd3d8d40800000000000000
+      internalID: 5588190677308492901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_60
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 558
+        width: 23
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 433cd73288ff4bcc0800000000000000
+      internalID: -3696048433988254924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_61
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 547
+        width: 58
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81dbcb0b0822a8960800000000000000
+      internalID: 7604928856884821272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_62
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 548
+        width: 34
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd8b85edf8d007a70800000000000000
+      internalID: 8822566581580642524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_63
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 550
+        width: 34
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5a25774f1ce08420800000000000000
+      internalID: 2630361801471371870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_64
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 546
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a7cf8d3b85cfca10800000000000000
+      internalID: 1931979966989191074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_65
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 538
+        width: 44
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd3d863c07b040ce0800000000000000
+      internalID: -1440013401909046308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_66
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 546
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35d626e16eb475de0800000000000000
+      internalID: -1344522512022475437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_67
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 514
+        width: 75
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f8112b54e45f2ba0800000000000000
+      internalID: -6111572829560301323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_68
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 537
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5af51b1d0f7fe5d20800000000000000
+      internalID: 3269322993199832997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_69
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 528
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e25829eda680f2b20800000000000000
+      internalID: 3111715122630001966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_70
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 530
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9edee57289d089490800000000000000
+      internalID: -7739421012489474583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_71
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 530
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fba98a07eda6ee0f0800000000000000
+      internalID: -1085812956544329025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_72
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 530
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3297eb07856341400800000000000000
+      internalID: 293919629162477859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_73
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 525
+        width: 36
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d8ea4953429b1d0800000000000000
+      internalID: -3334594236544807674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_74
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 512
+        width: 39
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceddacc6e722e0490800000000000000
+      internalID: -7778241580035809812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_75
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 498
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d6fb22fe2d762810800000000000000
+      internalID: 1740215946610210513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_76
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 526
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 380d9dc119be3cec0800000000000000
+      internalID: -3547733072950996861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_77
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 472
+        width: 95
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57f18e0c95555f150800000000000000
+      internalID: 5905720330343161717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_78
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 514
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6e90bdf14aefa810800000000000000
+      internalID: 1778897946984619630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_79
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 511
+        width: 31
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 622f52be51d219170800000000000000
+      internalID: 8183371570071597606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_80
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 509
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bed813362a4439210800000000000000
+      internalID: 1338488978498751979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_81
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 515
+        width: 33
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b4d4977288e17bc0800000000000000
+      internalID: -3786990164592241484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_82
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 459
+        width: 14
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e332da7a2fad9d0800000000000000
+      internalID: -2748617820578038179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_83
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 459
+        width: 11
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa0910fd637b6eba0800000000000000
+      internalID: -6059954802282884945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_84
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 474
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb03919854a6691f0800000000000000
+      internalID: -1038525817176903493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_85
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 493
+        width: 91
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3199743c10c68fa10800000000000000
+      internalID: 1943421994037385491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_86
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 468
+        width: 41
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ca129207de79e810800000000000000
+      internalID: 1795105388410051269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_87
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 471
+        width: 51
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3870bb1a0f0fb1d50800000000000000
+      internalID: 6709220986194691971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_88
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 474
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea015f8e7834be140800000000000000
+      internalID: 4749964483000340654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_89
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 442
+        width: 54
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f29ed005e45d3af60800000000000000
+      internalID: 8044507891741092143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_90
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 455
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc49f1d9feea488d0800000000000000
+      internalID: -2844956720434801460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_91
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 457
+        width: 34
+        height: 12
+      alignment: 9
+      pivot: {x: 0.7528543, y: 0.30236563}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e511deeb19279d8c0800000000000000
+      internalID: -3974019225878720162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_92
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 451
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8ac1f97106300680800000000000000
+      internalID: -8790967092658451827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_93
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 460
+        width: 33
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 043bc1684d495c760800000000000000
+      internalID: 7477546396822582080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_94
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 454
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 304f63ce85460a820800000000000000
+      internalID: 2927450090873746435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_95
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 449
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cdb84d4b4ef3e640800000000000000
+      internalID: 5108206001740889539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_96
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 447
+        width: 46
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe8f4d25ba942bd20800000000000000
+      internalID: 3292775277739178223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_97
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 441
+        width: 44
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b85fa8b307db2afc0800000000000000
+      internalID: -3485014871898393205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_98
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 435
+        width: 67
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22826ad36fc1ad320800000000000000
+      internalID: 2583409180172232738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_99
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 440
+        width: 33
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43bc2a62a526a7dd0800000000000000
+      internalID: -2487567704833995980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_100
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 416
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ef6ddac1754c6a0800000000000000
+      internalID: -6429918587290976759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_101
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 429
+        width: 46
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bca02dbd077adad0800000000000000
+      internalID: -2676696127627023184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_102
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 405
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 306242fe6b49e0640800000000000000
+      internalID: 5048135745745987075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_103
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 411
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72651b76e74537560800000000000000
+      internalID: 7310279522034734631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_104
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 416
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f0288f417d9b150800000000000000
+      internalID: 5888974472832225114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_105
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 413
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae82fe2c95c8ed9a0800000000000000
+      internalID: -6206368919319533334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_106
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 412
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9180ffeaa347102a0800000000000000
+      internalID: -6773004569195640807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_107
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 416
+        width: 33
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 601fdbab84da38600800000000000000
+      internalID: 469409314058924294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_108
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 384
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bf52ad68c4731280800000000000000
+      internalID: -9073780420039778380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_109
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 416
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 261d45cd5a0724d10800000000000000
+      internalID: 2108371433231274338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_110
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 391
+        width: 105
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30673dbfb91fdfc70800000000000000
+      internalID: 9006620482058024451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_111
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 417
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf422bf5555883ed0800000000000000
+      internalID: -2434048996869528324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_112
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 393
+        width: 65
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06017c805b59f5fc0800000000000000
+      internalID: -3503917380302073760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_113
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 403
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29abb19c4356b2e20800000000000000
+      internalID: 3326864027129985682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_114
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 390
+        width: 74
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04139b30df714a9b0800000000000000
+      internalID: -5069900905055702720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_115
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 364
+        width: 60
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b80dfc56d87f31660800000000000000
+      internalID: 7355494803096719499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_116
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 389
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5262e191c735f750800000000000000
+      internalID: 6338033355109589598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_117
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 375
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a754d7d6d9ef5f10800000000000000
+      internalID: 2260782646916568993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_118
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 367
+        width: 36
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e880abd1a612b6470800000000000000
+      internalID: 8388835470556661902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_119
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 375
+        width: 45
+        height: 13
+      alignment: 9
+      pivot: {x: 0.7096293, y: 0.49326736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43c0414753921d210800000000000000
+      internalID: 1355910272372706356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_120
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 380
+        width: 36
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a8a5679484ef1890800000000000000
+      internalID: -7485012797539637079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_121
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 367
+        width: 65
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f705ee100d524460800000000000000
+      internalID: 7224439007355406321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_122
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 351
+        width: 55
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02059bbb05a4461c0800000000000000
+      internalID: -4511399216111071200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_123
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 365
+        width: 15
+        height: 10
+      alignment: 9
+      pivot: {x: 0.8063883, y: 0.39394227}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86c396236d01c4670800000000000000
+      internalID: 8524206706860309608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_124
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 344
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 459f092ae25375430800000000000000
+      internalID: 3771541687358257492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_125
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 350
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d961266cf95f7270800000000000000
+      internalID: 8250411982946134485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_126
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 349
+        width: 60
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eec0bc049172562c0800000000000000
+      internalID: -4439098868289041170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_127
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 340
+        width: 59
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 143d9559d3f28a210800000000000000
+      internalID: 1344376430315295553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_128
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 352
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66006c4b99e73fae0800000000000000
+      internalID: -1516729450865754010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_129
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 350
+        width: 59
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f52d8cbcfdb7e5660800000000000000
+      internalID: 7376469440806310495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_130
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 324
+        width: 79
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0243ad44818a7b8d0800000000000000
+      internalID: -2830609018591235040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_131
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 333
+        width: 35
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6a99f230057da420800000000000000
+      internalID: 2642897200052017770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_132
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 333
+        width: 43
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 483963855918f81f0800000000000000
+      internalID: -1040470510469213308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_133
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 336
+        width: 34
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b7db09fb9a728eb0800000000000000
+      internalID: -4719074649214036046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_134
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 335
+        width: 43
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c475f92c724090050800000000000000
+      internalID: 5767145366640088908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_135
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 299
+        width: 54
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48c3d8fc7e7c58dd0800000000000000
+      internalID: -2484359820991447932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_136
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 317
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 582a91969b10496a0800000000000000
+      internalID: -6443523271016471931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_137
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 324
+        width: 59
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d06ff07aa18ed8180800000000000000
+      internalID: -9111371269931010547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_138
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 308
+        width: 87
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ed4ddc936b7e9880800000000000000
+      internalID: -8602302570467340826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_139
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 305
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 222b2853d76f6b760800000000000000
+      internalID: 7473431649297019426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_140
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 309
+        width: 37
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c4ef18e1cb6a2fe0800000000000000
+      internalID: -1213038669055662907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_141
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 308
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b8bca5846a39ae00800000000000000
+      internalID: 1056439791008921780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_142
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 302
+        width: 52
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fadd9d87867cf8c80800000000000000
+      internalID: -8318210735211946577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_143
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 313
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e9aff2807257420800000000000000
+      internalID: 2627048873758727829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_144
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 289
+        width: 70
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6196d0e826edceab0800000000000000
+      internalID: -4977358973279835882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_145
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 293
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0c321add911a5020800000000000000
+      internalID: 2331195126783818766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_146
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 302
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e23657b80dd5354e0800000000000000
+      internalID: -1994147059720690898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_147
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 286
+        width: 51
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e726fec9ad8b2940800000000000000
+      internalID: 5272463549228525539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_148
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 286
+        width: 66
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 912ab6ed146cc4bb0800000000000000
+      internalID: -4950363904180248039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_149
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 278
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5dce778e54bc9690800000000000000
+      internalID: -7593996553560339106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_150
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 282
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 321aa87e1ee325080800000000000000
+      internalID: -9200221948791316189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_151
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 282
+        width: 34
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 303b16b253a3b79c0800000000000000
+      internalID: -3928482249915124989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_152
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 289
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a03f1cc3dfa4cb400800000000000000
+      internalID: 341230123279840010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_153
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 274
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a799fd707a03dea0800000000000000
+      internalID: -5849320012758018141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_154
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 273
+        width: 51
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b12160f7be6b99990800000000000000
+      internalID: -7378665391905172965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_155
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 262
+        width: 53
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba1ec017d2c8bbe90800000000000000
+      internalID: -7008854268273958485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_156
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 276
+        width: 39
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f2b78b4061ea970800000000000000
+      internalID: 8767969734067695463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_157
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 277
+        width: 33
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feb4e024690f9d7e0800000000000000
+      internalID: -1740095252857992209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_158
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 256
+        width: 35
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fa2832d0f563cdd0800000000000000
+      internalID: -2467016085875447048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_159
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 259
+        width: 31
+        height: 16
+      alignment: 9
+      pivot: {x: 0.4234971, y: 0.45367813}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c6df5181e5625c0800000000000000
+      internalID: -4240598541581587367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_160
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 267
+        width: 31
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe8ab72e8df7b2330800000000000000
+      internalID: 3687181289422301423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_161
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 265
+        width: 29
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa5181d6a92ca0030800000000000000
+      internalID: 3461793232098694570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_162
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 260
+        width: 40
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19196a2d7d5fc46a0800000000000000
+      internalID: -6463521057882599023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_163
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 256
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbcb330b967959e10800000000000000
+      internalID: 2203834072851266749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_164
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 241
+        width: 45
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce19e7a22dac82ea0800000000000000
+      internalID: -5897240708036783636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_165
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 250
+        width: 49
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67ac5921993553700800000000000000
+      internalID: 519413248938068598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_166
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 250
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 463309bd4e1aec3c0800000000000000
+      internalID: -4337351386802932892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_167
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 241
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13215bd37fef30c50800000000000000
+      internalID: 6630423414265156145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_168
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 228
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5263261c07aa2e410800000000000000
+      internalID: 1504952626752665125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_169
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 242
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36744f2529998f3d0800000000000000
+      internalID: -3172617083746498717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_170
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 221
+        width: 83
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26877e9180e927a30800000000000000
+      internalID: 4211602359176362082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_171
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 230
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 015c226e1d00dccc0800000000000000
+      internalID: -3689291618237364976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_172
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 235
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 854de5d04c3207040800000000000000
+      internalID: 4643250540763862104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_173
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 235
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ba170bf18d46b2a0800000000000000
+      internalID: -6722100173146219849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_174
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 234
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a38aafa0a550d55d0800000000000000
+      internalID: -3072293486507415494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_175
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 224
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c07d971e06c434b0800000000000000
+      internalID: -5461522684265533240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_176
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 232
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fccfabc5b59b1ff00800000000000000
+      internalID: 1148903182005107919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_177
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 224
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5684ef84b251fed50800000000000000
+      internalID: 6768652040613546085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_178
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 208
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a07cd483540a2d480800000000000000
+      internalID: -8875855696436017398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_179
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 213
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86716f8528b3015d0800000000000000
+      internalID: -3093907512979220632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_180
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 212
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40da301fb891a3270800000000000000
+      internalID: 8230919357807701252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_181
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 213
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d577904c5f95c2c0800000000000000
+      internalID: -4411945041370057258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_182
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 211
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03840b1fa12c5d250800000000000000
+      internalID: 5968890302129260592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_183
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 216
+        width: 41
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb7913ca4fed4e960800000000000000
+      internalID: 7630468811114780606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_184
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 207
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11e0312fb1a5e6ea0800000000000000
+      internalID: -5877661387599966703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_185
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 208
+        width: 43
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f98f90ec64c90000800000000000000
+      internalID: 2749246694459897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_186
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 186
+        width: 52
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6441a03dfd1234e0800000000000000
+      internalID: -2003505910946642838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_187
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 193
+        width: 59
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9935e4f9287fa200800000000000000
+      internalID: 193505430597876122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_188
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 202
+        width: 39
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff1b56512e079880800000000000000
+      internalID: -8604393026722521090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_189
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 193
+        width: 33
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72617e163f3608e60800000000000000
+      internalID: 7962474038161774119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_190
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 191
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b15d6e355f528550800000000000000
+      internalID: 6161592059920470451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_191
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 153
+        width: 52
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 626adfe88288edac0800000000000000
+      internalID: -3828472925439285722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_192
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 186
+        width: 36
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc4273ce483743b0800000000000000
+      internalID: -5528388106636342083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_193
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 181
+        width: 42
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cee416310f3e0f90800000000000000
+      internalID: -6985576697570201917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_194
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 160
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3835952a4cf961090800000000000000
+      internalID: -8064082415874124925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_195
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 177
+        width: 38
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b5909f053fbcff70800000000000000
+      internalID: 9222456371563238838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_196
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 186
+        width: 33
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59388a9f997442d40800000000000000
+      internalID: 5558646566726173589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_197
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 175
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d04587fa82ecffe30800000000000000
+      internalID: 4539573623550661645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_198
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 167
+        width: 52
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd1f04cdd2dd7d490800000000000000
+      internalID: -7721459847064915492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_199
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 146
+        width: 42
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6a6d274fe51889c0800000000000000
+      internalID: -3924862957817861522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_200
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 161
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 077905db34a0b0660800000000000000
+      internalID: 7352982102667728752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_201
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 169
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b784d07ce1af09cd0800000000000000
+      internalID: -2553265978623571845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_202
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 162
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b84c439e44c592430800000000000000
+      internalID: 3758636815057470603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_203
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 148
+        width: 68
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3041be783a5b72410800000000000000
+      internalID: 1452329118814901251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_204
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 151
+        width: 29
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afd17e5be16a3dc70800000000000000
+      internalID: 8994715531620064762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_205
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 154
+        width: 38
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5a7b5b95928a1c60800000000000000
+      internalID: 7789682084558895711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_206
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 158
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c2fee6ec74460990800000000000000
+      internalID: -7420168032805260604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_207
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 133
+        width: 53
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a14c8fa06b50e80800000000000000
+      internalID: -8212958187200701797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_208
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 139
+        width: 29
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d3b93aed2a268480800000000000000
+      internalID: -8897377637132291112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_209
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 137
+        width: 42
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b98a41bb7179f3cb0800000000000000
+      internalID: -4882017342867593061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_210
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 136
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f490669aec2813730800000000000000
+      internalID: 3977103770061769039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_211
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 132
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2147cc07b71b7dbe0800000000000000
+      internalID: -1452497211072154606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_212
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 138
+        width: 60
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 794a49c2a593d9540800000000000000
+      internalID: 5016228619418379415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_213
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 120
+        width: 45
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5fd3dc59f4a761e0800000000000000
+      internalID: -2204612101663367331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_214
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 121
+        width: 33
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04524d0f713f8a110800000000000000
+      internalID: 1272534178882397504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_215
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 119
+        width: 55
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bac80692611c86b0800000000000000
+      internalID: -5292836346945549642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_216
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 120
+        width: 55
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70766bd3e49603cd0800000000000000
+      internalID: -2580446801719564537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_217
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 119
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08fa67929b1090430800000000000000
+      internalID: 3749530059538870144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_218
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 102
+        width: 55
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b97394d3e1084860800000000000000
+      internalID: 7514258056303311289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_219
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 102
+        width: 63
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64538aa2990f33840800000000000000
+      internalID: 5202766535179384134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_220
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 102
+        width: 68
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38bc130245c477b60800000000000000
+      internalID: 7743742008487955331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_221
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 102
+        width: 58
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd4b2668c4074e8c0800000000000000
+      internalID: -3970925497459493668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_222
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 106
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00cb745f38a624640800000000000000
+      internalID: 5062726046106237952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_223
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 103
+        width: 49
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e86201a624dded90800000000000000
+      internalID: -7066758977899304734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_224
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 104
+        width: 23
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 092b26c2047049340800000000000000
+      internalID: 4869525069298315920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_225
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 62
+        width: 79
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd1b1c2041cab2340800000000000000
+      internalID: 4840151426485301724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_226
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 72
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc77e26081cd9df40800000000000000
+      internalID: 5753871994683553739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_227
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 87
+        width: 23
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 965b7b91c0d433a10800000000000000
+      internalID: 1887937383164786025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_228
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 63
+        width: 56
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a640fd2f396f6a60800000000000000
+      internalID: 7669464410509821600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_229
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 67
+        width: 51
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d4a3d00e6e75ba30800000000000000
+      internalID: 4230426435909821657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_230
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 68
+        width: 60
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28038276af2a085c0800000000000000
+      internalID: -4215190054862573438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_231
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 47
+        width: 33
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77100d5bbae16ac20800000000000000
+      internalID: 3217292706641346935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_232
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 62
+        width: 35
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e12f1ccd0f163ed0800000000000000
+      internalID: -2434724404427546135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_233
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 50
+        width: 49
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a14a79652a7c71d30800000000000000
+      internalID: 4402206660829357082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_234
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 60
+        width: 32
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a26590679348d0f00800000000000000
+      internalID: 1084668467594483242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_235
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 39
+        width: 41
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63bfd08c2e6bc9c10800000000000000
+      internalID: 2061723814564068150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_236
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 20
+        width: 41
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d652a1a02867d37e0800000000000000
+      internalID: -1784139576481536659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_237
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 35
+        width: 49
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c04e5e4140f75050800000000000000
+      internalID: 5789360009286402243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_238
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 20
+        width: 51
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ced4181be0f18810800000000000000
+      internalID: 1765957421417946820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_239
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 39
+        width: 43
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b08923ca1b140b050800000000000000
+      internalID: 5814219350289324043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_240
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 20
+        width: 49
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7500cd13bda283250800000000000000
+      internalID: 5924532430728593495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_241
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 34
+        width: 75
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4987e018a709589e0800000000000000
+      internalID: -1619729635144206188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_242
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 21
+        width: 27
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d838ba6416aa6db70800000000000000
+      internalID: 8923507046455411597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_243
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 21
+        width: 55
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c73202b7ab0949200800000000000000
+      internalID: 185932615233053564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_244
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1
+        width: 68
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6165d3bcd5fdd540800000000000000
+      internalID: 5034450286728798573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_245
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 4
+        width: 98
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 760c4a62290792cd0800000000000000
+      internalID: -2582409138304401305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_246
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 2
+        width: 61
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eb944cc27b0c1eb0800000000000000
+      internalID: -4747907319474119712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel guns_247
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 5
+        width: 82
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aed1f8155f85ca0d0800000000000000
+      internalID: -3410253007167742486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: e9fa393bb1f86da4b8b1744e22c7623b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
