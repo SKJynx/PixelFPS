@@ -7,9 +7,9 @@ public class GunScript : MonoBehaviour
     AmmoStockpile ammoStockpile;
 
     [SerializeField]
-    AudioClip fire;
+    AudioClip fireSFX;
     [SerializeField]
-    AudioClip reload;
+    AudioClip reloadSFX;
 
     [SerializeField]
     string firingAnimation;
@@ -32,6 +32,8 @@ public class GunScript : MonoBehaviour
     bool canInput = true;
     [SerializeField]
     bool canUseWeapon = true;
+    [SerializeField]
+    bool isReloading;
 
     [SerializeField]
     float canFireTimer;
@@ -41,7 +43,6 @@ public class GunScript : MonoBehaviour
     [SerializeField]
     float bulletRange;
 
-    [SerializeField]
     int ammoToLoad;
     [SerializeField]
     int ammoPerShot;
@@ -77,12 +78,13 @@ public class GunScript : MonoBehaviour
 
     void FixedUpdate()
     {
-        if (canFireTimer >= -2)
+        if (canFireTimer >= -1)
         {
+
             canFireTimer -= 1;
         }
 
-        if (reloadTimer >= -2)
+        if (reloadTimer >= -1)
         {
             reloadTimer -= 1;
         }
@@ -101,13 +103,13 @@ public class GunScript : MonoBehaviour
             canUseWeapon = true;
         }
 
-        if (Input.GetKeyDown(KeyCode.R) && ammoStockpile.GetCurrentMag(ammoStockpile.ammoType) < m_scriptableWeapon.maxAmmo && canUseWeapon == true)
+        if (Input.GetKeyDown(KeyCode.R) && ammoStockpile.GetCurrentMag(ammoStockpile.ammoType) < m_scriptableWeapon.maxAmmo && canUseWeapon == true && ammoStockpile.GetStockpile(ammoStockpile.ammoType) > 0 && canFireTimer < 0)
         {
             if (m_scriptableWeapon.reloadType == ScriptableWeapons.ReloadType.Magazine)
             {
                 ReloadWeapon();
             }
-            else if (m_scriptableWeapon.reloadType == ScriptableWeapons.ReloadType.Single)
+            else if (m_scriptableWeapon.reloadType == ScriptableWeapons.ReloadType.Single && isReloading == false)
             {
                 StartCoroutine("ReloadSingle");
             }
@@ -177,6 +179,8 @@ public class GunScript : MonoBehaviour
 
     void FireWeapon()
     {
+        isReloading = false;
+
         StopCoroutine("ReloadSingle");
         GetAmmoType();
 
@@ -186,6 +190,7 @@ public class GunScript : MonoBehaviour
 
         canFireTimer = m_scriptableWeapon.fireRate;
 
+        audioSource.PlayOneShot(fireSFX);
         muzzleFlash.GetComponent<Animator>().Play(muzzleAnimation, -1, 0);
         anim.Play(firingAnimation, -1, 0);
         Debug.DrawRay(playerCamera.transform.position, playerCamera.transform.forward, Color.red, 0.5f);
@@ -202,6 +207,8 @@ public class GunScript : MonoBehaviour
 
     void ReloadWeapon()
     {
+        audioSource.PlayOneShot(reloadSFX);
+
         int ammoToReload = m_scriptableWeapon.maxAmmo - ammoStockpile.GetCurrentMag(ammoStockpile.ammoType);
 
         ammoStockpile.Reload(ammoStockpile.ammoType, ammoToReload);
@@ -213,10 +220,16 @@ public class GunScript : MonoBehaviour
     {
         if (ammoStockpile.GetCurrentMag(ammoStockpile.ammoType) < m_scriptableWeapon.maxAmmo)
         {
+            isReloading = true;
+
+            audioSource.PlayOneShot(reloadSFX);
+
             reloadTimer = m_scriptableWeapon.reloadTime;
             ammoStockpile.Reload(ammoStockpile.ammoType, 1);
             yield return new WaitForSeconds(m_scriptableWeapon.reloadTime);
+            isReloading = false;
             StartCoroutine("ReloadSingle");
+
         }
     }
 

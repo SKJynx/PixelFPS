@@ -99,8 +99,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5544047d6d708ad458433a2b568b380e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fire: {fileID: 0}
-  reload: {fileID: 0}
+  fireSFX: {fileID: 8300000, guid: 930af61111cfabe4cb67a9f1ec010eab, type: 3}
+  reloadSFX: {fileID: 8300000, guid: ceab926a2d8751f4fab276547fcf8cbf, type: 3}
   firingAnimation: Gun_Fire_SMG
   muzzleAnimation: Effect_Muzzle_Flash
   m_scriptableWeapon: {fileID: 11400000, guid: 633ad319d2688dc46a2035b160a4ed78, type: 2}
@@ -109,6 +109,7 @@ MonoBehaviour:
   muzzleFlash: {fileID: 3679147790642564336}
   canInput: 1
   canUseWeapon: 1
+  isReloading: 0
   canFireTimer: 0
   reloadTimer: 0
   bulletRange: 112.34
@@ -162,7 +163,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 0}
   m_PlayOnAwake: 1
-  m_Volume: 1
+  m_Volume: 0.75
   m_Pitch: 1
   Loop: 0
   Mute: 0
@@ -312,16 +313,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3119920626928513271, guid: c0ca3fc2efa07c74ba58806848397f27,
-        type: 3}
-      propertyPath: m_LocalScale.x
-      value: 0.05
-      objectReference: {fileID: 0}
-    - target: {fileID: 3119920626928513271, guid: c0ca3fc2efa07c74ba58806848397f27,
-        type: 3}
-      propertyPath: m_LocalScale.y
-      value: 0.05
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c0ca3fc2efa07c74ba58806848397f27, type: 3}

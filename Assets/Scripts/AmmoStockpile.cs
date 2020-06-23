@@ -45,6 +45,11 @@ public class AmmoStockpile : MonoBehaviour
         return _inventory[(int)type].currentMag;
     }
 
+    public int GetStockpile(AmmoType type)
+    {
+        return _inventory[(int)type].Stockpile;
+    }
+
     // Returns amount collected, so you can choose to not consume
     // pickups if you're already full (ie. return value is zero).
     public int Collect(AmmoType type, int amount)
