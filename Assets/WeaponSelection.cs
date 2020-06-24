@@ -5,6 +5,8 @@ using UnityEngine;
 public class WeaponSelection : MonoBehaviour
 {
 
+    public Inventory weaponDatabase;
+
     AmmoStockpile ammoStockpile;
 
     public GameObject[] weaponSlots;
@@ -15,6 +17,7 @@ public class WeaponSelection : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        weaponDatabase = GameObject.FindGameObjectWithTag("WeaponDatabase").GetComponent<Inventory>();
         ammoStockpile = GetComponent<AmmoStockpile>();
         selectedSlot = 0;
     }
@@ -23,7 +26,7 @@ public class WeaponSelection : MonoBehaviour
     void Update()
     {
 
-
+        AddWeapon();
         ChangeWeapon();
 
         weaponSlots[selectedSlot].gameObject.GetComponentInChildren<GunScript>().GetAmmoType();
@@ -63,28 +66,28 @@ public class WeaponSelection : MonoBehaviour
 
     void ChangeWeapon()
     {
+        weaponSlots[selectedSlot].GetComponentInChildren<GunScript>().GetPlayerRef();
 
-
-        if (weaponSlots[selectedSlot].GetComponentInChildren<GunScript>().reloadTimer < 0)
+        if (weaponSlots[selectedSlot].GetComponentInChildren<GunScript>() != null && weaponSlots[selectedSlot].GetComponentInChildren<GunScript>().reloadTimer < 0)
         {
             ammoStockpile.SyncCurrentMag(ammoStockpile.ammoType);
 
-            if (Input.GetKeyDown(KeyCode.Alpha1))
+            if (Input.GetKeyDown(KeyCode.Alpha1) && weaponSlots[0].GetComponentInChildren<GunScript>() != null)
             {
                 ResetWeapon();
                 selectedSlot = 0;
             }
-            if (Input.GetKeyDown(KeyCode.Alpha2))
+            if (Input.GetKeyDown(KeyCode.Alpha2) && weaponSlots[1].GetComponentInChildren<GunScript>() != null)
             {
                 ResetWeapon();
                 selectedSlot = 1;
             }
-            if (Input.GetKeyDown(KeyCode.Alpha3))
+            if (Input.GetKeyDown(KeyCode.Alpha3) && weaponSlots[2].GetComponentInChildren<GunScript>() != null)
             {
                 ResetWeapon();
                 selectedSlot = 2;
             }
-            if (Input.GetKeyDown(KeyCode.Alpha4))
+            if (Input.GetKeyDown(KeyCode.Alpha4) && weaponSlots[3].GetComponentInChildren<GunScript>() != null)
             {
                 ResetWeapon();
                 selectedSlot = 3;
@@ -99,4 +102,6 @@ public class WeaponSelection : MonoBehaviour
         weaponSlots[selectedSlot].GetComponentInChildren<GunScript>().isReloading = false;
         weaponSlots[selectedSlot].GetComponentInChildren<GunScript>().ResetMuzzleAnimation();
     }
+
+ 
 }

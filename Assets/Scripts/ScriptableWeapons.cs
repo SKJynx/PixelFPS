@@ -34,6 +34,8 @@ public class ScriptableWeapons : ScriptableObject
     //Can the weapon fire full auto?
     public bool automatic;
 
+    public int weaponRating;
+
     public enum WeaponTypes
     {
         Pistol,

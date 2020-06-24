@@ -11,21 +11,30 @@ public class HealthScript : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+
     }
 
     // Update is called once per frame
     void Update()
     {
-        
+
     }
 
     public void DamageDealt(float damage)
     {
-        // Damage = 1 + AR/10, armor rating of 10 = 50% damage reduction.
 
-        // Calculate damage reduction with 
-        health -= damage / (1 + (armorRating/10));
+
+        if (gameObject.GetComponent<Animator>() != null)
+        {
+            gameObject.GetComponent<Animator>().Play("Enemy_Hurt", -1, 0);
+            // Damage = 1 + AR/10, armor rating of 10 = 50% damage reduction.
+            // Calculate damage reduction with 
+            health -= damage / (1 + (armorRating / 10));
+        }
+        else
+        {
+            health -= damage / (1 + (armorRating / 10));
+        }
 
         CheckDeath();
     }

@@ -68,6 +68,11 @@ public class GunScript : MonoBehaviour
     public AmmoType ammoType;
 
 
+    public void GetPlayerRef()
+    {
+        player = GameObject.FindGameObjectWithTag("Player");
+    }
+
     // Start is called before the first frame update
     void Start()
     {
@@ -207,6 +212,7 @@ public class GunScript : MonoBehaviour
         {
             if (bulletHit.rigidbody != null)
             {
+                
                 bulletHit.collider.GetComponent<HealthScript>().DamageDealt(m_scriptableWeapon.weaponDamage * m_scriptableWeapon.criticalMultiplier);
                 print(bulletHit.collider);
             }
@@ -243,10 +249,7 @@ public class GunScript : MonoBehaviour
             yield return new WaitForSeconds(m_scriptableWeapon.reloadTime);
             isReloading = false;
 
-
-
             StartCoroutine("ReloadSingle");
-
         }
     }
 
