@@ -5,20 +5,24 @@ using UnityEngine;
 public class WeaponSelection : MonoBehaviour
 {
 
+    AmmoStockpile ammoStockpile;
+
     public GameObject[] weaponSlots;
 
-    [SerializeField]
-    int selectedSlot;
+    public int selectedSlot;
 
     // Start is called before the first frame update
     void Start()
     {
+        ammoStockpile = GetComponent<AmmoStockpile>();
         selectedSlot = 0;
     }
 
     // Update is called once per frame
     void Update()
     {
+
+
         ChangeWeapon();
 
         weaponSlots[selectedSlot].gameObject.GetComponentInChildren<GunScript>().GetAmmoType();
@@ -58,6 +62,9 @@ public class WeaponSelection : MonoBehaviour
 
     void ChangeWeapon()
     {
+
+        ammoStockpile.SyncCurrentMag(ammoStockpile.ammoType);
+
         if (Input.GetKeyDown(KeyCode.Alpha1))
         {
             selectedSlot = 0;

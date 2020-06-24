@@ -37,6 +37,22 @@ public class AmmoStockpile : MonoBehaviour
     }
     public AmmoType ammoType;
 
+    public WeaponSelection weaponSelection;
+
+    private void Start()
+    {
+        weaponSelection = GetComponent<WeaponSelection>();
+    }
+
+
+    public int SyncCurrentMag(AmmoType type)
+    {
+        AmmoEntry held = _inventory[(int)type];
+        int syncAmount = weaponSelection.weaponSlots[weaponSelection.selectedSlot].gameObject.GetComponentInChildren<GunScript>().currentMag;
+        held.currentMag = syncAmount;
+        _inventory[(int)type] = held;
+        return syncAmount;
+    }
 
     // Since our enum is "really" an integer, we can use it
     // as an index to jump straight to the entry we want.

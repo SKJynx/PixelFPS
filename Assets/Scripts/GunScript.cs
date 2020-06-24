@@ -47,8 +47,8 @@ public class GunScript : MonoBehaviour
     int ammoToLoad;
     [SerializeField]
     int ammoPerShot;
-    [SerializeField]
-    int currentMag;
+
+    public int currentMag;
 
     RaycastHit bulletHit;
 
@@ -98,6 +98,7 @@ public class GunScript : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+  
 
         if (reloadTimer > 0)
         {
@@ -210,8 +211,8 @@ public class GunScript : MonoBehaviour
                 print(bulletHit.collider);
             }
         }
-
         currentMag = ammoStockpile.GetCurrentMag(ammoStockpile.ammoType);
+
     }
 
     void ReloadWeapon()
@@ -223,6 +224,8 @@ public class GunScript : MonoBehaviour
         ammoStockpile.Reload(ammoStockpile.ammoType, ammoToReload);
 
         reloadTimer = m_scriptableWeapon.reloadTime;
+
+        currentMag = ammoStockpile.GetCurrentMag(ammoStockpile.ammoType);
     }
 
     IEnumerator ReloadSingle()
@@ -235,8 +238,13 @@ public class GunScript : MonoBehaviour
 
             reloadTimer = m_scriptableWeapon.reloadTime;
             ammoStockpile.Reload(ammoStockpile.ammoType, 1);
+            currentMag = ammoStockpile.GetCurrentMag(ammoStockpile.ammoType);
+
             yield return new WaitForSeconds(m_scriptableWeapon.reloadTime);
             isReloading = false;
+
+
+
             StartCoroutine("ReloadSingle");
 
         }
