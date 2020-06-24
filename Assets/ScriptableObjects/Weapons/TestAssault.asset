@@ -22,7 +22,7 @@ MonoBehaviour:
   maxAmmo: 40
   startingAmmo: 120
   projectileCount: 1
-  fireRate: 8.78
+  fireRate: 6.82
   criticalMultiplier: 1
   automatic: 1
   weaponType: 4

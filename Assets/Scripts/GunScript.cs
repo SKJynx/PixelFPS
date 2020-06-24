@@ -141,7 +141,7 @@ public class GunScript : MonoBehaviour
         }
     }
 
-    void GetAmmoType()
+    public void GetAmmoType()
     {
         if (ammoType == AmmoType.Light)
         {
@@ -184,7 +184,8 @@ public class GunScript : MonoBehaviour
 
     void FireWeapon()
     {
-        
+ 
+
         isReloading = false;
 
         StopCoroutine("ReloadSingle");
@@ -209,6 +210,8 @@ public class GunScript : MonoBehaviour
                 print(bulletHit.collider);
             }
         }
+
+        currentMag = ammoStockpile.GetCurrentMag(ammoStockpile.ammoType);
     }
 
     void ReloadWeapon()

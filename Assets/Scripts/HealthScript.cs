@@ -6,7 +6,7 @@ public class HealthScript : MonoBehaviour
 {
     public float health = 100;
 
-    public float armor = 1;
+    public float armorRating = 0;
 
     // Start is called before the first frame update
     void Start()
@@ -22,7 +22,10 @@ public class HealthScript : MonoBehaviour
 
     public void DamageDealt(float damage)
     {
-        health -= damage / armor;
+        // Damage = 1 + AR/10, armor rating of 10 = 50% damage reduction.
+
+        // Calculate damage reduction with 
+        health -= damage / (1 + (armorRating/10));
 
         CheckDeath();
     }

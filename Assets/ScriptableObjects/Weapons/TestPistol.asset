@@ -19,10 +19,10 @@ MonoBehaviour:
   weaponAccuracy: 0
   critChance: 0
   reloadTime: 80
-  maxAmmo: 7
+  maxAmmo: 12
   startingAmmo: 35
   projectileCount: 1
-  fireRate: 22
+  fireRate: 16.05
   criticalMultiplier: 1
   automatic: 0
   weaponType: 0

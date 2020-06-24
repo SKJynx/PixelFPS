@@ -18,7 +18,7 @@ MonoBehaviour:
   weaponDamage: 27
   weaponAccuracy: 0
   critChance: 0
-  reloadTime: 0.3
+  reloadTime: 0.6
   maxAmmo: 5
   startingAmmo: 5
   projectileCount: 1
