@@ -11,6 +11,7 @@ public class WeaponSelection : MonoBehaviour
 
     public int selectedSlot;
 
+
     // Start is called before the first frame update
     void Start()
     {
@@ -63,23 +64,39 @@ public class WeaponSelection : MonoBehaviour
     void ChangeWeapon()
     {
 
-        ammoStockpile.SyncCurrentMag(ammoStockpile.ammoType);
 
-        if (Input.GetKeyDown(KeyCode.Alpha1))
+        if (weaponSlots[selectedSlot].GetComponentInChildren<GunScript>().reloadTimer < 0)
         {
-            selectedSlot = 0;
+            ammoStockpile.SyncCurrentMag(ammoStockpile.ammoType);
+
+            if (Input.GetKeyDown(KeyCode.Alpha1))
+            {
+                ResetWeapon();
+                selectedSlot = 0;
+            }
+            if (Input.GetKeyDown(KeyCode.Alpha2))
+            {
+                ResetWeapon();
+                selectedSlot = 1;
+            }
+            if (Input.GetKeyDown(KeyCode.Alpha3))
+            {
+                ResetWeapon();
+                selectedSlot = 2;
+            }
+            if (Input.GetKeyDown(KeyCode.Alpha4))
+            {
+                ResetWeapon();
+                selectedSlot = 3;
+            }
         }
-        if (Input.GetKeyDown(KeyCode.Alpha2))
-        {
-            selectedSlot = 1;
-        }
-        if (Input.GetKeyDown(KeyCode.Alpha3))
-        {
-            selectedSlot = 2;
-        }
-        if (Input.GetKeyDown(KeyCode.Alpha4))
-        {
-            selectedSlot = 3;
-        }
+
+    }
+
+    void ResetWeapon()
+    {
+        weaponSlots[selectedSlot].GetComponentInChildren<Animator>().Play("Gun_Idle", -1, 0);
+        weaponSlots[selectedSlot].GetComponentInChildren<GunScript>().isReloading = false;
+        weaponSlots[selectedSlot].GetComponentInChildren<GunScript>().ResetMuzzleAnimation();
     }
 }

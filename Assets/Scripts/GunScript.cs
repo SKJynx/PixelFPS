@@ -33,13 +33,13 @@ public class GunScript : MonoBehaviour
     bool canInput = true;
     [SerializeField]
     bool canUseWeapon = true;
-    [SerializeField]
-    bool isReloading;
 
-    [SerializeField]
-    float canFireTimer;
-    [SerializeField]
-    float reloadTimer;
+    public bool isReloading;
+
+
+    public float canFireTimer;
+
+    public float reloadTimer;
 
     [SerializeField]
     float bulletRange;
@@ -67,10 +67,10 @@ public class GunScript : MonoBehaviour
     }
     public AmmoType ammoType;
 
+
     // Start is called before the first frame update
     void Start()
     {
-        audioSource = GetComponent<AudioSource>();
         sr = GetComponent<SpriteRenderer>();
         player = GameObject.FindGameObjectWithTag("Player");
         playerCamera = GameObject.Find("PlayerCamera");
@@ -79,6 +79,7 @@ public class GunScript : MonoBehaviour
         anim = GetComponent<Animator>();
         sr.sprite = m_scriptableWeapon.weaponSprite;
         weaponSprite = m_scriptableWeapon.weaponSprite;
+        audioSource = player.GetComponent<AudioSource>();
     }
 
     void FixedUpdate()
@@ -98,7 +99,7 @@ public class GunScript : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-  
+
 
         if (reloadTimer > 0)
         {
@@ -185,7 +186,6 @@ public class GunScript : MonoBehaviour
 
     void FireWeapon()
     {
- 
 
         isReloading = false;
 
@@ -249,6 +249,12 @@ public class GunScript : MonoBehaviour
 
         }
     }
+
+    public void ResetMuzzleAnimation()
+    {
+        GameObject.FindGameObjectWithTag("MuzzleFlash").GetComponent<SpriteRenderer>().color = new Color(0,0,0,0);
+    }
+
 
 }
 

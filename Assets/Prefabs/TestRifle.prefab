@@ -75,13 +75,13 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 1294590711525115350, guid: e7a2e5a00a653f74ab14bf91d9c74923,
+  m_Sprite: {fileID: -8531353266554063227, guid: 995de79f1de31694080844ffd1e56104,
     type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 0.24, y: 0.1}
+  m_Size: {x: 0.52, y: 0.15}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -99,6 +99,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5544047d6d708ad458433a2b568b380e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  weaponSprite: {fileID: 0}
   fireSFX: {fileID: 8300000, guid: b7b386c502a356242920f37e65d009e7, type: 3}
   reloadSFX: {fileID: 8300000, guid: 5ff8d91034da7aa4ebb43bf7d0ed8f01, type: 3}
   firingAnimation: Gun_Fire
@@ -113,8 +114,8 @@ MonoBehaviour:
   canFireTimer: 0
   reloadTimer: 0
   bulletRange: 112.34
-  ammoToLoad: 0
   ammoPerShot: 1
+  currentMag: 0
   ammoType: 4
 --- !u!95 &8157659914600934040
 Animator:

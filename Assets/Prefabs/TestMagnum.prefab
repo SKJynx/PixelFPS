@@ -13,9 +13,9 @@ GameObject:
   - component: {fileID: 8157659914600934046}
   - component: {fileID: 8157659914600934040}
   - component: {fileID: 8157659914600934047}
-  - component: {fileID: 2401779531190764184}
+  - component: {fileID: -3246113848970091036}
   m_Layer: 0
-  m_Name: TestPistol
+  m_Name: TestMagnum
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -32,7 +32,7 @@ Transform:
   m_LocalPosition: {x: 0.75, y: -0.35000002, z: 0.75}
   m_LocalScale: {x: 4, y: 4, z: 4}
   m_Children:
-  - {fileID: 8836190702498052266}
+  - {fileID: 4611915656527857768}
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 90, z: 0}
@@ -75,13 +75,13 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: -9201296429074108347, guid: 995de79f1de31694080844ffd1e56104,
+  m_Sprite: {fileID: 6499704326309967362, guid: 995de79f1de31694080844ffd1e56104,
     type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 0.15, y: 0.1}
+  m_Size: {x: 0.33, y: 0.19}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -100,14 +100,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   weaponSprite: {fileID: 0}
-  fireSFX: {fileID: 8300000, guid: 9fdf75baaed3834448f28a38f271a4a2, type: 3}
-  reloadSFX: {fileID: 8300000, guid: 5e19d09761ab2dc4b8faaf097d6773eb, type: 3}
-  firingAnimation: Gun_Fire
+  fireSFX: {fileID: 8300000, guid: 4ef3030bb8b155948acc04f6637a929e, type: 3}
+  reloadSFX: {fileID: 8300000, guid: d8ae711dca0589646aefa6059d26c95d, type: 3}
+  firingAnimation: Gun_Fire_SMG
   muzzleAnimation: Effect_Muzzle_Flash
-  m_scriptableWeapon: {fileID: 11400000, guid: e35d404b99a930b42b4a2279b7b40741, type: 2}
+  m_scriptableWeapon: {fileID: 11400000, guid: 60d5bd88f7805d54c86f7c9710415c2e, type: 2}
   player: {fileID: 0}
   playerCamera: {fileID: 0}
-  muzzleFlash: {fileID: 8836190702498052267}
+  muzzleFlash: {fileID: 4611915656527857769}
   canInput: 1
   canUseWeapon: 1
   isReloading: 0
@@ -116,7 +116,7 @@ MonoBehaviour:
   bulletRange: 112.34
   ammoPerShot: 1
   currentMag: 0
-  ammoType: 0
+  ammoType: 1
 --- !u!95 &8157659914600934040
 Animator:
   serializedVersion: 3
@@ -152,7 +152,7 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
---- !u!82 &2401779531190764184
+--- !u!82 &-3246113848970091036
 AudioSource:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -248,7 +248,7 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
---- !u!1001 &5903194259296454749
+--- !u!1001 &7731835712178960543
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
@@ -263,17 +263,17 @@ PrefabInstance:
     - target: {fileID: 3119920626928513271, guid: c0ca3fc2efa07c74ba58806848397f27,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -0.1226
+      value: -0.1919
       objectReference: {fileID: 0}
     - target: {fileID: 3119920626928513271, guid: c0ca3fc2efa07c74ba58806848397f27,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.0323
+      value: 0.036
       objectReference: {fileID: 0}
     - target: {fileID: 3119920626928513271, guid: c0ca3fc2efa07c74ba58806848397f27,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 3119920626928513271, guid: c0ca3fc2efa07c74ba58806848397f27,
         type: 3}
@@ -317,15 +317,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c0ca3fc2efa07c74ba58806848397f27, type: 3}
---- !u!1 &8836190702498052267 stripped
+--- !u!1 &4611915656527857769 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 3119920626928513270, guid: c0ca3fc2efa07c74ba58806848397f27,
     type: 3}
-  m_PrefabInstance: {fileID: 5903194259296454749}
+  m_PrefabInstance: {fileID: 7731835712178960543}
   m_PrefabAsset: {fileID: 0}
---- !u!4 &8836190702498052266 stripped
+--- !u!4 &4611915656527857768 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3119920626928513271, guid: c0ca3fc2efa07c74ba58806848397f27,
     type: 3}
-  m_PrefabInstance: {fileID: 5903194259296454749}
+  m_PrefabInstance: {fileID: 7731835712178960543}
   m_PrefabAsset: {fileID: 0}

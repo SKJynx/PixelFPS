@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8b49790db18d6bb4984218f17fe5ffce, type: 3}
   m_Name: TestSMG
   m_EditorClassIdentifier: 
-  weaponSprite: {fileID: -4240598541581587367, guid: e7a2e5a00a653f74ab14bf91d9c74923,
+  weaponSprite: {fileID: -2633586906704499204, guid: 995de79f1de31694080844ffd1e56104,
     type: 3}
   weaponName: TestSMG
   weaponDamage: 7

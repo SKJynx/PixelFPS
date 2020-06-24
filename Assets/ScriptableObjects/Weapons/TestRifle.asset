@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8b49790db18d6bb4984218f17fe5ffce, type: 3}
   m_Name: TestRifle
   m_EditorClassIdentifier: 
-  weaponSprite: {fileID: 1294590711525115350, guid: e7a2e5a00a653f74ab14bf91d9c74923,
+  weaponSprite: {fileID: 6867901994790419875, guid: 995de79f1de31694080844ffd1e56104,
     type: 3}
   weaponName: TestRifle
   weaponDamage: 27
